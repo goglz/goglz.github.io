@@ -586,6 +586,15 @@ body.is-instant:after {
 	transition: none;
 }
 
+#image15 .frame {
+	width: 15rem;
+	transition: none;
+}
+
+#image15 .frame img {
+	transition: none;
+}
+
 h1, h2, h3, p {
 	direction: var(--site-language-direction);
 }
@@ -1121,6 +1130,10 @@ th {
 	}
 	
 	#image14 .frame {
+		width: 15rem;
+	}
+	
+	#image15 .frame {
 		width: 15rem;
 	}
 	
