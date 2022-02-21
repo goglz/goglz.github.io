@@ -1995,5 +1995,6 @@
 		onvisible.add('#image12', { style: 'blur-in', speed: 1000, intensity: 5, delay: 1000, replay: false });
 		onvisible.add('#image13', { style: 'blur-in', speed: 1000, intensity: 5, delay: 1000, replay: false });
 		onvisible.add('#image14', { style: 'blur-in', speed: 1000, intensity: 5, delay: 1000, replay: false });
+		onvisible.add('#image15', { style: 'blur-in', speed: 1000, intensity: 5, delay: 1000, replay: false });
 
 })();
