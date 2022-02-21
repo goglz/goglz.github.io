@@ -587,7 +587,7 @@ body.is-instant:after {
 }
 
 #image15 .frame {
-	width: 15rem;
+	width: 20rem;
 	transition: none;
 }
 
@@ -1134,7 +1134,7 @@ th {
 	}
 	
 	#image15 .frame {
-		width: 15rem;
+		width: 20rem;
 	}
 	
 	#text01 {
